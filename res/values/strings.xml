@@ -66,7 +66,8 @@
     <string name="power_save_category">Power saving</string>
     <string name="qs_brightness_category_title">QS brightness options</string>
     <string name="nav_category_title">Navigation options</string>
-
+    <string name="Miscellaneous_category">Miscellaneous</string>
+   
     <!-- Fragments -->
     <string name="notification_settings_title">Notifications Settings</string>
     <string name="quicksettings_title">QuickSettings options</string>
@@ -327,10 +328,14 @@
     <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
     <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
 
-   <!-- AOD Icons in Lockscreen! -->
+    <!-- AOD Icons in Lockscreen! -->
     <string name="lock_aod_icons_title">AOD/ambient display customisations</string>
     <string name="ambient_icons_lockscreen_title">AOD icons on lockscreen</string>
     <string name="ambient_icons_lockscreen_summary">Replace notifications with AOD icons</string>
     <string name="ambient_icons_size_title">AOD icons size</string>
+
+    <!-- Wakeup options -->
+    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
 
 </resources>
